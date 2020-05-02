@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: f9db98ac68988c649b09f1b33fea5b78
+timeCreated: 1495937427
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Plane Crash
+  fontNames:
+  - Plane Crash
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

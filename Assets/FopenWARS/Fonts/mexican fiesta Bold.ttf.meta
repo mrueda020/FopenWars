@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 67a4366180b7bcb4f827b5f582e761f5
+timeCreated: 1493570766
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Mexican fiesta
+  fontNames:
+  - Mexican fiesta
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 3348f9bbd938df54a9b392321f7e93e1, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
